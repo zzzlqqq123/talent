@@ -1,0 +1,1173 @@
+[
+  {
+    "questionText": "我能够快速理解复杂的概念和理论",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "逻辑思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "questionText": "我在学习新知识时经常感到困难",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "学习能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于分析问题并找出关键点",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "分析能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 3,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够记住大量的信息和细节",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "记忆力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 2,
+    "order": 4,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常在思考时感到混乱",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "逻辑思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 5,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速掌握新技能",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "学习能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 6,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于从不同角度看待问题",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "思维灵活性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 7,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速做出准确的判断",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "判断力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 8,
+    "isActive": true
+  },
+  {
+    "questionText": "我在做决策时经常犹豫不决",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "决策能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 9,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够理解抽象的概念和符号",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "抽象思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 10,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于发现事物之间的联系",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "关联思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 11,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够长时间保持专注",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "注意力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 2,
+    "order": 12,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常在阅读时理解困难",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "理解能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 13,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于进行数学计算和推理",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "数理能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 14,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够有效地组织和规划任务",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "规划能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 15,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于语言表达和写作",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "语言能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 16,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速适应新环境",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "适应能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 17,
+    "isActive": true
+  },
+  {
+    "questionText": "我在处理信息时经常出错",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "信息处理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 18,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于批判性思考",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "批判思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 19,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速识别模式和规律",
+    "questionType": "single",
+    "category": "cognitive",
+    "dimension": "认知能力",
+    "subDimension": "模式识别",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 20,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常想出新颖独特的点子",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "创新思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 21,
+    "isActive": true
+  },
+  {
+    "questionText": "我在创作时缺乏灵感",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "灵感",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 22,
+    "isActive": true
+  },
+  {
+    "questionText": "我喜欢尝试新的方法和途径",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "探索精神",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 2,
+    "order": 23,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于将不同的想法组合创新",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "整合能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 24,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够打破常规思维",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "突破性思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 25,
+    "isActive": true
+  },
+  {
+    "questionText": "我在艺术创作方面有天赋",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "艺术感知",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 26,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常墨守成规",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "灵活性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 27,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于想象和构思未来场景",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "想象力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 28,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够从失败中找到新的机会",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "转化能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 29,
+    "isActive": true
+  },
+  {
+    "questionText": "我喜欢挑战传统观念",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "批判创新",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 30,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速产生多个解决方案",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "流畅性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 31,
+    "isActive": true
+  },
+  {
+    "questionText": "我在设计方面缺乏创意",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "设计思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 32,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于发现事物的新用途",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "变通性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 33,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够创作出独特的作品",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "独创性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 34,
+    "isActive": true
+  },
+  {
+    "questionText": "我喜欢进行头脑风暴",
+    "questionType": "single",
+    "category": "creativity",
+    "dimension": "创造力",
+    "subDimension": "发散思维",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 2,
+    "order": 35,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够准确识别他人的情绪",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "情绪识别",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 36,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常无法控制自己的情绪",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "情绪管理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 37,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于理解他人的感受",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "同理心",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 38,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够有效地表达自己的情感",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "情感表达",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 39,
+    "isActive": true
+  },
+  {
+    "questionText": "我在压力下能保持冷静",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "抗压能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 40,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常对他人的需求不敏感",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "社交敏感度",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 41,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于激励和鼓舞他人",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "影响力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 42,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够建立和维护良好的人际关系",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "人际关系",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 43,
+    "isActive": true
+  },
+  {
+    "questionText": "我在冲突中能够保持理性",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "冲突管理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 44,
+    "isActive": true
+  },
+  {
+    "questionText": "我经常误解他人的意图",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "社交理解",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 45,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够适应不同的社交场合",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "社交适应",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 46,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于倾听他人的想法",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "倾听能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 2,
+    "order": 47,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够从挫折中快速恢复",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "心理韧性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 48,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于团队协作",
+    "questionType": "single",
+    "category": "emotional",
+    "dimension": "情感智能",
+    "subDimension": "协作能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 49,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够有效地解决问题",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "问题解决",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 50,
+    "isActive": true
+  },
+  {
+    "questionText": "我在执行任务时经常拖延",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "执行力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 51,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于时间管理",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "时间管理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 52,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够高效地完成任务",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "效率",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 53,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于使用工具和技术",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "工具使用",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 54,
+    "isActive": true
+  },
+  {
+    "questionText": "我在实际操作中经常出错",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "操作准确性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 55,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够将理论应用到实践中",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "应用能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 56,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于资源整合和利用",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "资源管理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 57,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够制定并执行计划",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "计划执行",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 58,
+    "isActive": true
+  },
+  {
+    "questionText": "我在面对困难时容易放弃",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "坚持性",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": true,
+    "difficulty": 2,
+    "order": 59,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于领导和组织团队",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "领导力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 60,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够快速学习新技能",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "技能学习",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 61,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于项目管理",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "项目管理",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 4,
+    "order": 62,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够在实践中不断改进",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "持续改进",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 63,
+    "isActive": true
+  },
+  {
+    "questionText": "我善于质量控制",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "质量意识",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 64,
+    "isActive": true
+  },
+  {
+    "questionText": "我能够有效地应对突发情况",
+    "questionType": "single",
+    "category": "practical",
+    "dimension": "实践能力",
+    "subDimension": "应变能力",
+    "options": [
+      { "value": 1, "label": "完全不符合" },
+      { "value": 2, "label": "不太符合" },
+      { "value": 3, "label": "一般" },
+      { "value": 4, "label": "比较符合" },
+      { "value": 5, "label": "完全符合" }
+    ],
+    "isReverse": false,
+    "difficulty": 3,
+    "order": 65,
+    "isActive": true
+  }
+]
+

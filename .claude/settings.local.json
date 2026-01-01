@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(ls:*)",
+      "Bash(mongod:*)",
+      "Bash(net stat:*)",
+      "Bash(choco:*)",
+      "Bash(sc:*)",
+      "Bash(docker:*)",
+      "Bash(npm run dev)",
+      "Bash(curl:*)"
+    ]
+  }
+}
