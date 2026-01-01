@@ -1,0 +1,12 @@
+{
+  "name": "talent-test-root",
+  "version": "1.0.0",
+  "description": "个人天赋测试系统 - 根配置",
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "build-backend": "cd backend && npm run build",
+    "install": "npm run install-backend",
+    "build": "npm run build-backend"
+  }
+}
+
