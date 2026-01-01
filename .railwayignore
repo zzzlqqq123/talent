@@ -1,0 +1,7 @@
+# 忽略前端和其他文件，只构建 backend
+frontend/
+talentdna---discover-your-inner-genius/
+*.md
+test-api.js
+.claude/
+
